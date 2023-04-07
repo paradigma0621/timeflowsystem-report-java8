@@ -9,4 +9,5 @@ Runs on port 4100 when connected with Config Microservice.
 
 2023-03-24 - Connected by Feign this microservice with API Microservice (this last one using Java 17) (See specific branch inside those repositories: "2023-03-24-UsingFeign-API+Report")	
 
+2023-04-07 - Unified Config + Eureka + Report + Gateway (See specific branch inside all their repositories: "2023-04-07-Config+Eureka+Report+Gateway")
 
