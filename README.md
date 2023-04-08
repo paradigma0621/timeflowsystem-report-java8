@@ -21,4 +21,4 @@ https://github.com/paradigma0621/timeflowsystem-core-java8 <br>
 https://github.com/paradigma0621/timeflowsystem-api-java8 <br>
 https://github.com/paradigma0621/timeflowsystem-gateway-java8
 
-In https://github.com/paradigma0621 there is algo all this microservices in Java 17 version.
+In https://github.com/paradigma0621 there is also all this microservices in Java 17 version.
